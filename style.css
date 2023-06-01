@@ -1,0 +1,30 @@
+body{
+    background-color: green;
+}
+
+
+#objectname{
+    font-size: 20px;
+    color: red;
+}
+
+
+#objectconfidence{
+    color: yellow;
+}
+
+
+#Sketchtobedrawn{
+    color: yellow;
+}
+
+#vivan{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+canvas{
+    border-radius: 20px;
+    border: 5px;
+}
